@@ -1,0 +1,7 @@
+# social media links
+cv_pdf: # path to your CV PDF file (e.g., /assets/pdf/cv.pdf)
+email: # your email address
+github_id: to-real # your GitHub username
+rss_icon: true # comment this line to hide the RSS icon
+# scholar_userid: # your Google Scholar ID
+# wechat_qr: # filename of your wechat qr-code saved as an image
